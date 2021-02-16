@@ -547,7 +547,17 @@ a {
     display: flex;
 
 }
-
+.textarea{
+    width: 100%;
+    background: #E5E5E5;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 0 0 10px;
+    font-size: 15px;
+}
+.textarea_adaptive{
+    width: 100%;
+}
 .contant_img-restorant {
     width: 25%;
 }
@@ -615,6 +625,10 @@ a {
     height: 60px;
     border: none;
     border-radius: 5px;
+    color: #fff;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 700;
 }
 
 .container__button-messege input::placeholder {
@@ -642,7 +656,7 @@ a {
 height: 675px;
 }
 
-@media screen and (max-width: 922px) {
+@media screen and (max-width: 991px) {
     .contenair_resturant-text_margin {
         margin-top: -26px
     }
