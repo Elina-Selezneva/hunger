@@ -566,7 +566,7 @@ a {
 }
 .messege {
     width: 90%;
-    height: 263px;
+    height: 276px;
     margin: auto;
     display: flex;
     justify-content: space-between;
@@ -699,7 +699,7 @@ height: 675px;
     }
 
     .messege {
-        height: 457px;
+        height: 470px;
     }
 
     .container__contakts {
